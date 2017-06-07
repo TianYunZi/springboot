@@ -11,6 +11,17 @@
         <module name="1.3.2.spring-configration" />
         <module name="1.3.3.spring-aop" />
         <module name="2.2.1.spring-el" />
+        <module name="2.3.1.spring-bean-init-destrory" />
+        <module name="2.3.1.spring-bean-init-destroy" />
+        <module name="2.4.1.spring-profile" />
+        <module name="2.5.1.spring-event-listener" />
+        <module name="3.1.2.spring-aware" />
+        <module name="3.2.2.spring-async" />
+        <module name="3.3.2.spring-schedule" />
+        <module name="3.4.2.spring-conditional" />
+        <module name="4.2.2.spring-mvc-start" />
+        <module name="4.3.2.spring-mvc-rest" />
+        <module name="bean-init-destrory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +30,17 @@
       <module name="1.3.2.spring-configration" target="1.8" />
       <module name="1.3.3.spring-aop" target="1.8" />
       <module name="2.2.1.spring-el" target="1.8" />
+      <module name="2.3.1.spring-bean-init-destrory" target="1.8" />
+      <module name="2.3.1.spring-bean-init-destroy" target="1.8" />
+      <module name="2.4.1.spring-profile" target="1.8" />
+      <module name="2.5.1.spring-event-listener" target="1.8" />
+      <module name="3.1.2.spring-aware" target="1.8" />
+      <module name="3.2.2.spring-async" target="1.8" />
+      <module name="3.3.2.spring-schedule" target="1.8" />
+      <module name="3.4.2.spring-conditional" target="1.8" />
+      <module name="4.2.2.spring-mvc-start" target="1.8" />
+      <module name="4.3.2.spring-mvc-rest" target="1.8" />
+      <module name="bean-init-destrory" target="1.8" />
       <module name="JavaTest14-SpringBoot" target="1.5" />
     </bytecodeTargetLevel>
   </component>

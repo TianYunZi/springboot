@@ -7,7 +7,16 @@
       <module fileurl="file://$PROJECT_DIR$/1.3.2.spring-configration/1.3.2.spring-configration.iml" filepath="$PROJECT_DIR$/1.3.2.spring-configration/1.3.2.spring-configration.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.3.3.spring-aop/1.3.3.spring-aop.iml" filepath="$PROJECT_DIR$/1.3.3.spring-aop/1.3.3.spring-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.2.1.spring-el/2.2.1.spring-el.iml" filepath="$PROJECT_DIR$/2.2.1.spring-el/2.2.1.spring-el.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.4.1.spring-profile/2.4.1.spring-profile.iml" filepath="$PROJECT_DIR$/2.4.1.spring-profile/2.4.1.spring-profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.5.1.spring-event-listener/2.5.1.spring-event-listener.iml" filepath="$PROJECT_DIR$/2.5.1.spring-event-listener/2.5.1.spring-event-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.1.2.spring-aware/3.1.2.spring-aware.iml" filepath="$PROJECT_DIR$/3.1.2.spring-aware/3.1.2.spring-aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.2.2.spring-async/3.2.2.spring-async.iml" filepath="$PROJECT_DIR$/3.2.2.spring-async/3.2.2.spring-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.3.2.spring-schedule/3.3.2.spring-schedule.iml" filepath="$PROJECT_DIR$/3.3.2.spring-schedule/3.3.2.spring-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.4.2.spring-conditional/3.4.2.spring-conditional.iml" filepath="$PROJECT_DIR$/3.4.2.spring-conditional/3.4.2.spring-conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.2.2.spring-mvc-start/4.2.2.spring-mvc-start.iml" filepath="$PROJECT_DIR$/4.2.2.spring-mvc-start/4.2.2.spring-mvc-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.3.2.spring-mvc-rest/4.3.2.spring-mvc-rest.iml" filepath="$PROJECT_DIR$/4.3.2.spring-mvc-rest/4.3.2.spring-mvc-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTest14-SpringBoot.iml" filepath="$PROJECT_DIR$/JavaTest14-SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.3.1.spring-bean-init-destrory/bean-init-destrory.iml" filepath="$PROJECT_DIR$/2.3.1.spring-bean-init-destrory/bean-init-destrory.iml" />
     </modules>
   </component>
 </project>

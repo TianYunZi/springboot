@@ -10,6 +10,15 @@
         <module>1.3.2.spring-configration</module>
         <module>1.3.3.spring-aop</module>
         <module>2.2.1.spring-el</module>
+        <module>2.3.1.spring-bean-init-destrory</module>
+        <module>2.4.1.spring-profile</module>
+        <module>2.5.1.spring-event-listener</module>
+        <module>3.1.2.spring-aware</module>
+        <module>3.2.2.spring-async</module>
+        <module>3.3.2.spring-schedule</module>
+        <module>3.4.2.spring-conditional</module>
+        <module>4.2.2.spring-mvc-start</module>
+        <module>4.3.2.spring-mvc-rest</module>
     </modules>
 
     <groupId>org.practise</groupId>
