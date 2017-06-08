@@ -14,11 +14,15 @@ import java.util.concurrent.ThreadLocalRandom;
 @Controller
 public class SseController {
 
-    @RequestMapping(value = "/push", produces = "text/event-stream")
+    @RequestMapping(value = "/push", produces = "text/event-stream;charset=utf-8")
     @ResponseBody
-    @Scheduled(fixedRate = 5000)
     public String push() {
         ThreadLocalRandom random = ThreadLocalRandom.current();
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         return "data:Testing 1,2,3" + random.nextInt() + "\n\n";
     }
 }
