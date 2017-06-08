@@ -19,6 +19,7 @@
         <module>3.4.2.spring-conditional</module>
         <module>4.2.2.spring-mvc-start</module>
         <module>4.3.2.spring-mvc-rest</module>
+        <module>4.4.1.spring-mvc-static-resources</module>
     </modules>
 
     <groupId>org.practise</groupId>

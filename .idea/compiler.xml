@@ -21,6 +21,7 @@
         <module name="3.4.2.spring-conditional" />
         <module name="4.2.2.spring-mvc-start" />
         <module name="4.3.2.spring-mvc-rest" />
+        <module name="4.4.1.spring-mvc-static-resources" />
         <module name="bean-init-destrory" />
       </profile>
     </annotationProcessing>
@@ -40,6 +41,7 @@
       <module name="3.4.2.spring-conditional" target="1.8" />
       <module name="4.2.2.spring-mvc-start" target="1.8" />
       <module name="4.3.2.spring-mvc-rest" target="1.8" />
+      <module name="4.4.1.spring-mvc-static-resources" target="1.8" />
       <module name="bean-init-destrory" target="1.8" />
       <module name="JavaTest14-SpringBoot" target="1.5" />
     </bytecodeTargetLevel>

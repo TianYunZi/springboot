@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/3.4.2.spring-conditional/3.4.2.spring-conditional.iml" filepath="$PROJECT_DIR$/3.4.2.spring-conditional/3.4.2.spring-conditional.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.2.2.spring-mvc-start/4.2.2.spring-mvc-start.iml" filepath="$PROJECT_DIR$/4.2.2.spring-mvc-start/4.2.2.spring-mvc-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.3.2.spring-mvc-rest/4.3.2.spring-mvc-rest.iml" filepath="$PROJECT_DIR$/4.3.2.spring-mvc-rest/4.3.2.spring-mvc-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.4.1.spring-mvc-static-resources/4.4.1.spring-mvc-static-resources.iml" filepath="$PROJECT_DIR$/4.4.1.spring-mvc-static-resources/4.4.1.spring-mvc-static-resources.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTest14-SpringBoot.iml" filepath="$PROJECT_DIR$/JavaTest14-SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.3.1.spring-bean-init-destrory/bean-init-destrory.iml" filepath="$PROJECT_DIR$/2.3.1.spring-bean-init-destrory/bean-init-destrory.iml" />
     </modules>
