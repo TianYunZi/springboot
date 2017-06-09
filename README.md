@@ -1,0 +1,1 @@
+spring-boot的application-properties文件，debug=true查看已启用配置
