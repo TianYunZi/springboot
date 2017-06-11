@@ -23,6 +23,9 @@
         <module>5.2.2.spring-boot-start</module>
         <module>6.2.2.spring-boot-properties-file</module>
         <module>6.2.3.spring-boot-properties-safe-config</module>
+        <module>6.5.4.spring-boot-auto-config</module>
+        <module>7.2.4.spring-boot-thymeleaf</module>
+        <module>7.4.2.spring-boot-code-config-tomcat</module>
     </modules>
 
     <groupId>org.practise</groupId>

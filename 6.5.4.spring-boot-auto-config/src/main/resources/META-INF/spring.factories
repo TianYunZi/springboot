@@ -1,0 +1,4 @@
+#注册配置，使自动配置生效
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.boot.config.HelloServiceAutoConfiguration
+#若有多个配置，用,隔开；\换行

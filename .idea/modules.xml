@@ -18,9 +18,13 @@
       <module fileurl="file://$PROJECT_DIR$/4.4.1.spring-mvc-static-resources/4.4.1.spring-mvc-static-resources.iml" filepath="$PROJECT_DIR$/4.4.1.spring-mvc-static-resources/4.4.1.spring-mvc-static-resources.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.2.2.spring-boot-start/5.2.2.spring-boot-start.iml" filepath="$PROJECT_DIR$/5.2.2.spring-boot-start/5.2.2.spring-boot-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.2.2.spring-boot-properties-file/6.2.2.spring-boot-properties-file.iml" filepath="$PROJECT_DIR$/6.2.2.spring-boot-properties-file/6.2.2.spring-boot-properties-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.5.4.spring-boot-auto-config/6.5.4.spring-boot-auto-config.iml" filepath="$PROJECT_DIR$/6.5.4.spring-boot-auto-config/6.5.4.spring-boot-auto-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.4.2.spring-boot-code-config-tomcat/7.4.2.spring-boot-code-config-tomcat.iml" filepath="$PROJECT_DIR$/7.4.2.spring-boot-code-config-tomcat/7.4.2.spring-boot-code-config-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTest14-SpringBoot.iml" filepath="$PROJECT_DIR$/JavaTest14-SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.3.1.spring-bean-init-destrory/bean-init-destrory.iml" filepath="$PROJECT_DIR$/2.3.1.spring-bean-init-destrory/bean-init-destrory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.5.4.spring-boot-auto-config-use/spring-boot-auto-config-use.iml" filepath="$PROJECT_DIR$/6.5.4.spring-boot-auto-config-use/spring-boot-auto-config-use.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config/springbootpropertiessafeconfig.iml" filepath="$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config/springbootpropertiessafeconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.2.4.spring-boot-thymeleaf/springbootthymeleaf.iml" filepath="$PROJECT_DIR$/7.2.4.spring-boot-thymeleaf/springbootthymeleaf.iml" />
     </modules>
   </component>
 </project>

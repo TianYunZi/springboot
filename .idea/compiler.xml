@@ -24,8 +24,12 @@
         <module name="4.4.1.spring-mvc-static-resources" />
         <module name="5.2.2.spring-boot-start" />
         <module name="6.2.2.spring-boot-properties-file" />
+        <module name="6.5.4.spring-boot-auto-config" />
+        <module name="7.4.2.spring-boot-code-config-tomcat" />
         <module name="bean-init-destrory" />
+        <module name="spring-boot-auto-config-use" />
         <module name="springbootpropertiessafeconfig" />
+        <module name="springbootthymeleaf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -45,9 +49,14 @@
       <module name="4.4.1.spring-mvc-static-resources" target="1.8" />
       <module name="5.2.2.spring-boot-start" target="1.8" />
       <module name="6.2.2.spring-boot-properties-file" target="1.8" />
+      <module name="6.5.4.spring-boot-auto-config" target="1.8" />
+      <module name="7.4.2.spring-boot-code-config-tomcat" target="1.8" />
       <module name="bean-init-destrory" target="1.8" />
       <module name="JavaTest14-SpringBoot" target="1.5" />
+      <module name="spring-boot-auto-config-use" target="1.8" />
+      <module name="springbootautoconfiguse" target="1.5" />
       <module name="springbootpropertiessafeconfig" target="1.8" />
+      <module name="springbootthymeleaf" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
