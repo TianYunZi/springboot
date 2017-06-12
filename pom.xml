@@ -26,6 +26,8 @@
         <module>6.5.4.spring-boot-auto-config</module>
         <module>7.2.4.spring-boot-thymeleaf</module>
         <module>7.4.2.spring-boot-code-config-tomcat</module>
+        <module>7.6.3.spring-boot-websocket</module>
+        <module>7.7.3.spring-boot-bootstrap-angularjs-web</module>
     </modules>
 
     <groupId>org.practise</groupId>
