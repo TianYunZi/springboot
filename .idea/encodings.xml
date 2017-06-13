@@ -13,5 +13,7 @@
     <file url="file://$PROJECT_DIR$/7.6.3.spring-boot-websocket" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/7.7.3.spring-boot-bootstrap-angularjs-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8.2.2.spring-boot-docker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.3.3.spring-boot-data-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.4.7.spring-boot-data-transaction" charset="UTF-8" />
   </component>
 </project>

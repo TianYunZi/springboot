@@ -23,9 +23,10 @@
       <module fileurl="file://$PROJECT_DIR$/7.6.3.spring-boot-websocket/7.6.3.spring-boot-websocket.iml" filepath="$PROJECT_DIR$/7.6.3.spring-boot-websocket/7.6.3.spring-boot-websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.7.3.spring-boot-bootstrap-angularjs-web/7.7.3.spring-boot-bootstrap-angularjs-web.iml" filepath="$PROJECT_DIR$/7.7.3.spring-boot-bootstrap-angularjs-web/7.7.3.spring-boot-bootstrap-angularjs-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/8.2.2.spring-boot-docker/8.2.2.spring-boot-docker.iml" filepath="$PROJECT_DIR$/8.2.2.spring-boot-docker/8.2.2.spring-boot-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.3.3.spring-boot-data-rest/8.3.3.spring-boot-data-rest.iml" filepath="$PROJECT_DIR$/8.3.3.spring-boot-data-rest/8.3.3.spring-boot-data-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.4.7.spring-boot-data-transaction/8.4.7.spring-boot-data-transaction.iml" filepath="$PROJECT_DIR$/8.4.7.spring-boot-data-transaction/8.4.7.spring-boot-data-transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTest14-SpringBoot.iml" filepath="$PROJECT_DIR$/JavaTest14-SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.3.1.spring-bean-init-destrory/bean-init-destrory.iml" filepath="$PROJECT_DIR$/2.3.1.spring-bean-init-destrory/bean-init-destrory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/6.5.4.spring-boot-auto-config-use/spring-boot-auto-config-use.iml" filepath="$PROJECT_DIR$/6.5.4.spring-boot-auto-config-use/spring-boot-auto-config-use.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config/springbootpropertiessafeconfig.iml" filepath="$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config/springbootpropertiessafeconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.2.4.spring-boot-thymeleaf/springbootthymeleaf.iml" filepath="$PROJECT_DIR$/7.2.4.spring-boot-thymeleaf/springbootthymeleaf.iml" />
     </modules>

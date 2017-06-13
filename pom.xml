@@ -29,6 +29,8 @@
         <module>7.6.3.spring-boot-websocket</module>
         <module>7.7.3.spring-boot-bootstrap-angularjs-web</module>
         <module>8.2.2.spring-boot-docker</module>
+        <module>8.3.3.spring-boot-data-rest</module>
+        <module>8.4.7.spring-boot-data-transaction</module>
     </modules>
 
     <groupId>org.practise</groupId>
