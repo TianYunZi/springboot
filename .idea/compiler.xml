@@ -28,6 +28,7 @@
         <module name="7.4.2.spring-boot-code-config-tomcat" />
         <module name="7.6.3.spring-boot-websocket" />
         <module name="7.7.3.spring-boot-bootstrap-angularjs-web" />
+        <module name="8.2.2.spring-boot-docker" />
         <module name="bean-init-destrory" />
         <module name="spring-boot-auto-config-use" />
         <module name="springbootpropertiessafeconfig" />
@@ -55,6 +56,7 @@
       <module name="7.4.2.spring-boot-code-config-tomcat" target="1.8" />
       <module name="7.6.3.spring-boot-websocket" target="1.8" />
       <module name="7.7.3.spring-boot-bootstrap-angularjs-web" target="1.8" />
+      <module name="8.2.2.spring-boot-docker" target="1.8" />
       <module name="bean-init-destrory" target="1.8" />
       <module name="JavaTest14-SpringBoot" target="1.5" />
       <module name="spring-boot-auto-config-use" target="1.8" />
