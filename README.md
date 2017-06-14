@@ -15,3 +15,16 @@ application.properties在/resources目录下，带有thymeleaf的.html文件在/
 在容器中进行常规的Linux系统命令：docker exec -it port-mysql bash
 
 data.sql文件在初始化时使用，以后需删除或者改名
+
+8.5.1
+Spring Cache: 使用任意一个实现CacheManager，需要注册实现的CacheManager的Bean
+Spring Boot: 需要通过@EnableCaching开启缓存支持
+
+8.5.4
+使用EhCache做缓存需添加配置文件并在pom.xml里添加依赖，使用Guava和Redis做缓存只需在Redis添加依赖
+
+8.6.2
+Spring Data目前只支持2.6和2.8版本的Redis, Model类继承Serializable接口
+
+9.1.3
+Spring-Boot-Security扩展配置只需配置类继承WebSecurityConfigurerAdapter类，无需使用@EnableWebSecurity注解

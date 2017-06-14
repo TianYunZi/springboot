@@ -15,5 +15,9 @@
     <file url="file://$PROJECT_DIR$/8.2.2.spring-boot-docker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8.3.3.spring-boot-data-rest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8.4.7.spring-boot-data-transaction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.5.3.spring-boot-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.6.1.spring-boot-data-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8.6.2.spring-boot-data-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9.1.3.spring-boot-security" charset="UTF-8" />
   </component>
 </project>

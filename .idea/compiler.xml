@@ -31,6 +31,10 @@
         <module name="8.2.2.spring-boot-docker" />
         <module name="8.3.3.spring-boot-data-rest" />
         <module name="8.4.7.spring-boot-data-transaction" />
+        <module name="8.5.3.spring-boot-cache" />
+        <module name="8.6.1.spring-boot-data-mongodb" />
+        <module name="8.6.2.spring-boot-data-redis" />
+        <module name="9.1.3.spring-boot-security" />
         <module name="bean-init-destrory" />
         <module name="springbootpropertiessafeconfig" />
         <module name="springbootthymeleaf" />
@@ -60,6 +64,10 @@
       <module name="8.2.2.spring-boot-docker" target="1.8" />
       <module name="8.3.3.spring-boot-data-rest" target="1.8" />
       <module name="8.4.7.spring-boot-data-transaction" target="1.8" />
+      <module name="8.5.3.spring-boot-cache" target="1.8" />
+      <module name="8.6.1.spring-boot-data-mongodb" target="1.8" />
+      <module name="8.6.2.spring-boot-data-redis" target="1.8" />
+      <module name="9.1.3.spring-boot-security" target="1.8" />
       <module name="bean-init-destrory" target="1.8" />
       <module name="JavaTest14-SpringBoot" target="1.5" />
       <module name="spring-boot-auto-config-use" target="1.8" />

@@ -15,7 +15,7 @@ public class DemoServiceImpl implements DemoService {
     @Autowired
     private PersonRepository personRepository;
 
-    @Transactional(rollbackFor = {IllegalArgumentException.class})
+    @Transactional(rollbackFor = {Throwable.class})
     @Override
     public Person savePersonWithRollBack(Person person) {
         Person p = personRepository.save(person);
