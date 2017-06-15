@@ -35,6 +35,10 @@
         <module>8.6.1.spring-boot-data-mongodb</module>
         <module>8.6.2.spring-boot-data-redis</module>
         <module>9.1.3.spring-boot-security</module>
+        <module>9.2.3.spring-boot-batch</module>
+        <module>9.4.6.spring-boot-integration</module>
+        <module>9.3.4.spring-boot-activemq</module>
+        <module>9.3.5.spring-boot-rabbitmq</module>
     </modules>
 
     <groupId>org.practise</groupId>

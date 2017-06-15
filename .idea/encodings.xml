@@ -19,5 +19,9 @@
     <file url="file://$PROJECT_DIR$/8.6.1.spring-boot-data-mongodb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8.6.2.spring-boot-data-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/9.1.3.spring-boot-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9.2.3.spring-boot-batch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9.3.4.spring-boot-activemq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9.3.5.spring-boot-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9.4.6.spring-boot-integration" charset="UTF-8" />
   </component>
 </project>

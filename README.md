@@ -28,3 +28,6 @@ Spring Data目前只支持2.6和2.8版本的Redis, Model类继承Serializable接
 
 9.1.3
 Spring-Boot-Security扩展配置只需配置类继承WebSecurityConfigurerAdapter类，无需使用@EnableWebSecurity注解
+
+9.2.3
+Spring-Boot-Starter-Batch依赖jar包需排除hsqldb依赖jar包
