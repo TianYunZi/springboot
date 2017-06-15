@@ -23,6 +23,9 @@ Spring Boot: 需要通过@EnableCaching开启缓存支持
 8.5.4
 使用EhCache做缓存需添加配置文件并在pom.xml里添加依赖，使用Guava和Redis做缓存只需在Redis添加依赖
 
+8.6.1
+添加部署模块
+
 8.6.2
 Spring Data目前只支持2.6和2.8版本的Redis, Model类继承Serializable接口
 

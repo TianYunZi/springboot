@@ -98,5 +98,6 @@
     <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-mail:4.3.10.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-file:4.3.10.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-devtools:1.5.4.RELEASE" level="project" />
   </component>
 </module>
