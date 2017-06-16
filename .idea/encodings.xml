@@ -3,6 +3,13 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/0.1.0.spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10.4.1.spring-boot-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11.1.1.spring-boot-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.3.1.spring-cloud-start" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/discover" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/person" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/some" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/5.2.2.spring-boot-start" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/6.2.2.spring-boot-properties-file" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config" charset="UTF-8" />

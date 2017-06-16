@@ -11,6 +11,7 @@ application.properties在/resources目录下，带有thymeleaf的.html文件在/
 
 8.2.2
 开启docker mysql容器命令：docker run -d -p 127.0.0.1:3305:3306 --name port-mysql -v /Users/Admin/docker/mysql/data:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=”abc123##” mysql:latest
+Linux: docker run --name port-mysql -p 3306:3306 -v /docker-data/mysql/data:/var/lib/mysql -e MYSQL_ROOT_PASSWORD='abc123##' -d mysql:5.7
 
 在容器中进行常规的Linux系统命令：docker exec -it port-mysql bash
 
@@ -34,3 +35,6 @@ Spring-Boot-Security扩展配置只需配置类继承WebSecurityConfigurerAdapte
 
 9.2.3
 Spring-Boot-Starter-Batch依赖jar包需排除hsqldb依赖jar包
+
+11.1.1
+spring-boot-actuator依赖于spring-hateoas
