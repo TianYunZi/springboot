@@ -12,6 +12,7 @@
         <module name="1.3.3.spring-aop" />
         <module name="10.4.1.spring-boot-test" />
         <module name="11.1.1.spring-boot-actuator" />
+        <module name="13.1.1.spring-boot-mybatis-redis" />
         <module name="2.2.1.spring-el" />
         <module name="2.3.1.spring-bean-init-destrory" />
         <module name="2.3.1.spring-bean-init-destroy" />
@@ -46,6 +47,7 @@
         <module name="discover" />
         <module name="person" />
         <module name="some" />
+        <module name="spring-boot-auto-config-use" />
         <module name="springbootpropertiessafeconfig" />
         <module name="springbootthymeleaf" />
       </profile>
@@ -58,6 +60,7 @@
       <module name="10.4.1.spring-boot-test" target="1.8" />
       <module name="11.1.1.spring-boot-actuator" target="1.8" />
       <module name="12.3.1.spring-cloud-start" target="1.8" />
+      <module name="13.1.1.spring-boot-mybatis-redis" target="1.8" />
       <module name="2.2.1.spring-el" target="1.8" />
       <module name="2.4.1.spring-profile" target="1.8" />
       <module name="2.5.1.spring-event-listener" target="1.8" />

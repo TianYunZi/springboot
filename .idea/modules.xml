@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/10.4.1.spring-boot-test/10.4.1.spring-boot-test.iml" filepath="$PROJECT_DIR$/10.4.1.spring-boot-test/10.4.1.spring-boot-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/11.1.1.spring-boot-actuator/11.1.1.spring-boot-actuator.iml" filepath="$PROJECT_DIR$/11.1.1.spring-boot-actuator/11.1.1.spring-boot-actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/12.3.1.spring-cloud-start.iml" filepath="$PROJECT_DIR$/12.3.1.spring-cloud-start/12.3.1.spring-cloud-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.1.1.spring-boot-mybatis-redis/13.1.1.spring-boot-mybatis-redis.iml" filepath="$PROJECT_DIR$/13.1.1.spring-boot-mybatis-redis/13.1.1.spring-boot-mybatis-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.2.1.spring-el/2.2.1.spring-el.iml" filepath="$PROJECT_DIR$/2.2.1.spring-el/2.2.1.spring-el.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.4.1.spring-profile/2.4.1.spring-profile.iml" filepath="$PROJECT_DIR$/2.4.1.spring-profile/2.4.1.spring-profile.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.5.1.spring-event-listener/2.5.1.spring-event-listener.iml" filepath="$PROJECT_DIR$/2.5.1.spring-event-listener/2.5.1.spring-event-listener.iml" />
@@ -42,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/discover/discover.iml" filepath="$PROJECT_DIR$/12.3.1.spring-cloud-start/discover/discover.iml" />
       <module fileurl="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/person/person.iml" filepath="$PROJECT_DIR$/12.3.1.spring-cloud-start/person/person.iml" />
       <module fileurl="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/some/some.iml" filepath="$PROJECT_DIR$/12.3.1.spring-cloud-start/some/some.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.5.4.spring-boot-auto-config-use/spring-boot-auto-config-use.iml" filepath="$PROJECT_DIR$/6.5.4.spring-boot-auto-config-use/spring-boot-auto-config-use.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config/springbootpropertiessafeconfig.iml" filepath="$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config/springbootpropertiessafeconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.2.4.spring-boot-thymeleaf/springbootthymeleaf.iml" filepath="$PROJECT_DIR$/7.2.4.spring-boot-thymeleaf/springbootthymeleaf.iml" />
     </modules>

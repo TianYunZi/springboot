@@ -43,6 +43,7 @@
         <module>11.1.1.spring-boot-actuator</module>
         <module>12.3.1.spring-cloud-practise</module>
         <module>12.3.1.spring-cloud-start</module>
+        <module>13.1.1.spring-boot-mybatis-redis</module>
     </modules>
 
     <groupId>org.practise</groupId>
