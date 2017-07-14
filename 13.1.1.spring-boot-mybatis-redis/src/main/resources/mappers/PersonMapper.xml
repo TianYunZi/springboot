@@ -5,7 +5,10 @@
 <mapper namespace="com.boot.dao.PersonMapper">
 
     <!-- 开启基于redis的二级缓存 -->
-    <cache type="com.boot.util.RedisCache"/>
+    <cache type="com.boot.util.RedisCache" eviction="LRU"
+           flushInterval="6000000"
+           size="1024"
+           readOnly="false"/>
 
     <select id="select" parameterType="int" resultType="com.boot.model.Person">
         SELECT * FROM jpa_persons p WHERE p.id=#{id} LIMIT 1
