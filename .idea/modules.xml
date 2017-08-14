@@ -23,6 +23,8 @@
       <module fileurl="file://$PROJECT_DIR$/5.2.2.spring-boot-start/5.2.2.spring-boot-start.iml" filepath="$PROJECT_DIR$/5.2.2.spring-boot-start/5.2.2.spring-boot-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.2.2.spring-boot-properties-file/6.2.2.spring-boot-properties-file.iml" filepath="$PROJECT_DIR$/6.2.2.spring-boot-properties-file/6.2.2.spring-boot-properties-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.5.4.spring-boot-auto-config/6.5.4.spring-boot-auto-config.iml" filepath="$PROJECT_DIR$/6.5.4.spring-boot-auto-config/6.5.4.spring-boot-auto-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.5.5.spring-boot-aspectj/6.5.5.spring-boot-aspectj.iml" filepath="$PROJECT_DIR$/6.5.5.spring-boot-aspectj/6.5.5.spring-boot-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.5.6.spring-boot-aspectj-ltw/6.5.6.spring-boot-aspectj-ltw.iml" filepath="$PROJECT_DIR$/6.5.6.spring-boot-aspectj-ltw/6.5.6.spring-boot-aspectj-ltw.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.4.2.spring-boot-code-config-tomcat/7.4.2.spring-boot-code-config-tomcat.iml" filepath="$PROJECT_DIR$/7.4.2.spring-boot-code-config-tomcat/7.4.2.spring-boot-code-config-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.6.3.spring-boot-websocket/7.6.3.spring-boot-websocket.iml" filepath="$PROJECT_DIR$/7.6.3.spring-boot-websocket/7.6.3.spring-boot-websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.7.3.spring-boot-bootstrap-angularjs-web/7.7.3.spring-boot-bootstrap-angularjs-web.iml" filepath="$PROJECT_DIR$/7.7.3.spring-boot-bootstrap-angularjs-web/7.7.3.spring-boot-bootstrap-angularjs-web.iml" />

@@ -77,6 +77,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/12.3.1.spring-cloud-practise/pom.xml" />
+        <option value="$PROJECT_DIR$/6.5.7.spring-boot-aspectj-ltw/pom.xml" />
       </set>
     </option>
   </component>

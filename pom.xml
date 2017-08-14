@@ -44,6 +44,9 @@
         <module>12.3.1.spring-cloud-practise</module>
         <module>12.3.1.spring-cloud-start</module>
         <module>13.1.1.spring-boot-mybatis-redis</module>
+        <module>6.5.5.spring-boot-aspectj</module>
+        <module>6.5.6.spring-boot-aspectj-ltw</module>
+        <module>6.5.7.spring-boot-aspectj-ltw</module>
     </modules>
 
     <groupId>org.practise</groupId>
