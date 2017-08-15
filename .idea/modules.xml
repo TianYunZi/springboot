@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/6.5.4.spring-boot-auto-config-use/spring-boot-auto-config-use.iml" filepath="$PROJECT_DIR$/6.5.4.spring-boot-auto-config-use/spring-boot-auto-config-use.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config/springbootpropertiessafeconfig.iml" filepath="$PROJECT_DIR$/6.2.3.spring-boot-properties-safe-config/springbootpropertiessafeconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.2.4.spring-boot-thymeleaf/springbootthymeleaf.iml" filepath="$PROJECT_DIR$/7.2.4.spring-boot-thymeleaf/springbootthymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.3.1.spring-cloud-start/ui/ui.iml" filepath="$PROJECT_DIR$/12.3.1.spring-cloud-start/ui/ui.iml" />
     </modules>
   </component>
 </project>

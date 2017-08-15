@@ -12,6 +12,7 @@
         <module>config</module>
         <module>person</module>
         <module>some</module>
+        <module>ui</module>
     </modules>
     <packaging>pom</packaging>
 

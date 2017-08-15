@@ -52,6 +52,7 @@
         <module name="spring-boot-auto-config-use" />
         <module name="springbootpropertiessafeconfig" />
         <module name="springbootthymeleaf" />
+        <module name="ui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -102,6 +103,8 @@
       <module name="spring-boot-auto-config-use" target="1.8" />
       <module name="springbootpropertiessafeconfig" target="1.8" />
       <module name="springbootthymeleaf" target="1.8" />
+      <module name="springcloudpractise" target="1.8" />
+      <module name="ui" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
