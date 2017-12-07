@@ -3,5 +3,4 @@
 *.iml
 /.idea/
 /target/
-/out/
 /spring-cloud-platform.iml

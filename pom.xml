@@ -47,6 +47,7 @@
         <module>6.5.5.spring-boot-aspectj</module>
         <module>6.5.6.spring-boot-aspectj-ltw</module>
         <module>6.5.7.spring-boot-aspectj-ltw</module>
+        <module>5.2.3.spring-boot-httpclient</module>
     </modules>
 
     <groupId>org.practise</groupId>

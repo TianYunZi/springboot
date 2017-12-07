@@ -26,6 +26,7 @@
         <module name="4.3.2.spring-mvc-rest" />
         <module name="4.4.1.spring-mvc-static-resources" />
         <module name="5.2.2.spring-boot-start" />
+        <module name="5.2.3.spring-boot-httpclient" />
         <module name="6.2.2.spring-boot-properties-file" />
         <module name="6.5.4.spring-boot-auto-config" />
         <module name="6.5.5.spring-boot-aspectj" />
@@ -49,7 +50,6 @@
         <module name="discover" />
         <module name="person" />
         <module name="some" />
-        <module name="spring-boot-auto-config-use" />
         <module name="springbootpropertiessafeconfig" />
         <module name="springbootthymeleaf" />
         <module name="ui" />
@@ -75,6 +75,7 @@
       <module name="4.3.2.spring-mvc-rest" target="1.8" />
       <module name="4.4.1.spring-mvc-static-resources" target="1.8" />
       <module name="5.2.2.spring-boot-start" target="1.8" />
+      <module name="5.2.3.spring-boot-httpclient" target="1.8" />
       <module name="6.2.2.spring-boot-properties-file" target="1.8" />
       <module name="6.5.4.spring-boot-auto-config" target="1.8" />
       <module name="6.5.5.spring-boot-aspectj" target="1.8" />
