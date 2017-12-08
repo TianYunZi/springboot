@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://www.mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="org.mybatis.chapter01.dao.PersonMapper">
+
+    <resultMap id="resultMap" type="org.mybatis.chapter01.model.Person">
+        <result column="id" property="id" jdbcType="CHAR"/>
+        <result column="name" property="name" jdbcType="CHAR"/>
+        <!--<result column="type" property="personType" jdbcType="CHAR" />-->
+        <result column="type" property="personType" typeHandler="org.mybatis.chapter01.util.PersonTypeHandler"/>
+    </resultMap>
+
+    <select id="query" resultMap="resultMap">
+        select * from person
+    </select>
+
+    <select id="select" resultMap="resultMap" parameterType="String">
+        select * from person p where p.type = #{type}
+    </select>
+</mapper>
