@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://www.mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="org.mybatis.chapter01.dao.PersonMapper">
+
+    <resultMap type="org.mybatis.chapter01.model.OrganizationBase" id="baseResultMap">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+        <result column="parent_id" property="parentId"/>
+        <result column="org_type" property="type" typeHandler="org.mybatis.chapter01.utils.UniversalEnumHandler"/>
+    </resultMap>
+    <resultMap type="org.mybatis.chapter01.model.Person" id="PersonResultMap">
+        <result column="email" property="email"/>
+        <result column="mobile" property="mobile"/>
+    </resultMap>
+</mapper>
